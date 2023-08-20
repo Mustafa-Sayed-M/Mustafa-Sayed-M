@@ -62,10 +62,6 @@
     <a href="https://www.w3.org/Style/CSS/" title="CSS3">
     <img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </a>
-     <!-- ### Bootstrap ### -->
-    <a href="https://www.w3.org/Style/bootstrap/" title="CSS3">
-    <img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    </a>
 </p>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
