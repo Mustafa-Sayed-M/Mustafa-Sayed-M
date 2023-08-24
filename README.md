@@ -9,7 +9,7 @@
 <br>
 - 🌱 I’m currently studying React.Js
 <br>
-- 📫 How to reach me **mustafaelsadiq9@gmail.com**
+- 📫 How to reach me <a href="https://mustafaelsadiq9@gmail.com">mustafaelsadiq9@gmail.com</a>
 
 <br>
 
