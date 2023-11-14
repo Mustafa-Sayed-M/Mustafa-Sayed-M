@@ -47,6 +47,7 @@
     <a href="https://github.com/" title="GitHub">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
+    <br>
      <!-- ### BOOTSTRAP5 ### -->
     <a href="https://getbootstrap.com/" title="BOOTSTRAP5">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
