@@ -9,7 +9,7 @@
 <br>
 
 ## 📩 Connect with me
-<p align="left">
+<p align="center">
     <!-- ### Link The Gmail ### -->
     <a href="mailto:mustafaelsadiq9@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
