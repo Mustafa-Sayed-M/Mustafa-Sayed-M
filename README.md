@@ -63,8 +63,8 @@
     <img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </a>
      <!-- ### Css ### -->
-    <a href="https://getbootstrap.com/" title="BOOTSTRAP">
-    <img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=bootstrap5&logoColor=white" alt="CSS3">
+    <a href="https://getbootstrap.com/" title="BOOTSTRAP5">
+    <img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=bootstrap5&logoColor=white" alt="BOOTSTRAP5">
     </a>
 </p>
 <br/>
