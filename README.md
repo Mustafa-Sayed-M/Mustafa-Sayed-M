@@ -64,7 +64,7 @@
     </a>
      <!-- ### Css ### -->
     <a href="https://getbootstrap.com/" title="BOOTSTRAP5">
-    BOOTSTRAP5
+    <img src="https://img.shields.io/badge/BOOTSTRAP5?style=for-the-badge&logo=BOOTSTRAP5&logoColor=ffdd54" alt="BOOTSTRAP5">
     </a>
 </p>
 <br/>
