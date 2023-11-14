@@ -2,8 +2,6 @@
 <h3 align="center">Front End Developer | Graphic Designer | UI && UX Designer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = "250px"/>
 <br>
-<br>
-<br>
 - 🌱 I’m currently studying Next.Js
 <br>
 - 📫 How to reach me <a href="https://mustafaelsadiq9@gmail.com">mustafaelsadiq9@gmail.com</a>
@@ -11,7 +9,7 @@
 <br>
 
 ## 📩 Connect with me
-<p align="center">
+<p align="left">
     <!-- ### Link The Gmail ### -->
     <a href="mailto:mustafaelsadiq9@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -36,7 +34,7 @@
 
 ## 🛠 Languages and Tools
 <br>
-<p align="center">
+<p align="left">
      <!-- ### Html ### -->
     <a href="https://www.w3.org/TR/html5/" title="HTML5">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
