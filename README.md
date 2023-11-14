@@ -33,7 +33,6 @@
 </p>
 
 ## 🛠 Languages and Tools
-<br>
 <p align="left">
      <!-- ### Html ### -->
     <a href="https://www.w3.org/TR/html5/" title="HTML5">
