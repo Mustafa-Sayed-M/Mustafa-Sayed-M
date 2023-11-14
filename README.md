@@ -2,6 +2,8 @@
 <h3 align="center">Front End Developer | Graphic Designer | UI && UX Designer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = "250px"/>
 <br>
+<br>
+<br>
 - 🌱 I’m currently studying Next.Js
 <br>
 - 📫 How to reach me <a href="https://mustafaelsadiq9@gmail.com">mustafaelsadiq9@gmail.com</a>
