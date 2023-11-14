@@ -38,14 +38,6 @@
 ## 🛠 Languages and Tools
 <br>
 <p align="center">
-    <!-- ### Github ### -->
-    <a href="https://github.com/" title="GitHub">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <!-- ### Java Script ### -->
-    <a href="https://www.javascript.com" title="javascript">
-    <img src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54" alt="javascript">
-    </a>
      <!-- ### Html ### -->
     <a href="https://www.w3.org/TR/html5/" title="HTML5">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -54,10 +46,18 @@
     <a href="https://www.w3.org/Style/CSS/" title="CSS3">
     <img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </a>
+    </a>
+    <!-- ### Github ### -->
+    <a href="https://github.com/" title="GitHub">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
      <!-- ### BOOTSTRAP5 ### -->
     <a href="https://getbootstrap.com/" title="BOOTSTRAP5">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
     </a>
+    <!-- ### Java Script ### -->
+    <a href="https://www.javascript.com" title="javascript">
+    <img src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54" alt="javascript">
      <!-- ### REACT JS ### -->
     <a href="https://react.dev/" title="REACT.JS">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS">
