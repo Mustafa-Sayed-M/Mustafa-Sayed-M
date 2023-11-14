@@ -62,8 +62,12 @@
     <a href="https://www.w3.org/Style/CSS/" title="CSS3">
     <img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </a>
-     <!-- ### Css ### -->
+     <!-- ### BOOTSTRAP5 ### -->
     <a href="https://getbootstrap.com/" title="BOOTSTRAP5">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
+    </a>
+     <!-- ### REACT JS ### -->
+    <a href="https://react.dev/" title="REACT.JS">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS">
     </a>
 </p>
