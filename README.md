@@ -16,22 +16,27 @@
 ## 📩 Connect with me
 <p align="left">
     <!-- ### Link The Gmail ### -->
-    <a href="mailto:ti3ng0@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <br>
-    <a href="https://twitter.com/Must3fa020" title="Titter">
-    <img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FMust3fa020"/>
+    <a href="mailto:mustafaelsadiq9@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <br>
     <!-- ### Link The Facebook ### -->
     <a href="https://www.facebook.com/profile.php?id=100070056490492" title="Facebook">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a>
+    <!-- ### Link The Instagram ### -->
+    <a href="https://www.instagram.com/d3rwish_19/" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <!-- ### Link The Twitter ### -->
+    <a href="https://twitter.com/Mustafa_Elsadiq" title="Titter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <br>
+    <br>
     <!-- ### Link The Linked In ### -->
-    <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact- info%3BukCL8%2BqlRJucDRcqg%2F6CbQ%3D%3D" title="LinkedIn">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/mustafa-sayed-65a40027a/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>  
 </p>
 
