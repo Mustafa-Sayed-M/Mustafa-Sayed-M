@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mustafa Sayed</h1>
-<h3 align="center">Front End Developer | Graphic Designer | UI && UX Designer</h3>
+<h3 align="center">Junior Front End Developer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = "250px"/>
 <br>
-- 🌱 I’m currently studying Next.Js
-<br>
-- 📫 How to reach me <a href="https://mustafaelsadiq9@gmail.com">mustafaelsadiq9@gmail.com</a>
+- 📫 How to reach me <a href="https://mustafacoder9@gmail.com">mustafacoder9@gmail.com</a>
 
 <br>
 
 ## 📩 Connect with me
 <p align="left">
     <!-- ### Link The Gmail ### -->
-    <a href="mailto:mustafaelsadiq9@gmail.com" title="Gmail">
+    <a href="mailto:mustafacoder9@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <!-- ### Link The Facebook ### -->
@@ -19,15 +17,10 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
     <!-- ### Link The Instagram ### -->
-    <a href="https://www.instagram.com/d3rwish_19/" title="Instagram">
+    <a href="https://www.instagram.com/_bahr_19/" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <br>
-    <br>
-    <!-- ### Link The Twitter ### -->
-    <a href="https://twitter.com/Mustafa_Elsadiq" title="Titter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
     <!-- ### Link The Linked In ### -->
     <a href="https://www.linkedin.com/in/mustafa-sayed-65a40027a/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
