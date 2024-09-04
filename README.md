@@ -12,7 +12,6 @@
     <a href="mailto:mustafacoder9@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <br>
     <!-- ### Link The Linked In ### -->
     <a href="https://www.linkedin.com/in/mustafa-sayed-65a40027a/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
