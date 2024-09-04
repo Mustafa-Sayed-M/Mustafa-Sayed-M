@@ -12,14 +12,6 @@
     <a href="mailto:mustafacoder9@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <!-- ### Link The Facebook ### -->
-    <a href="https://www.facebook.com/profile.php?id=100070056490492" title="Facebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a>
-    <!-- ### Link The Instagram ### -->
-    <a href="https://www.instagram.com/_bahr_19/" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
     <br>
     <!-- ### Link The Linked In ### -->
     <a href="https://www.linkedin.com/in/mustafa-sayed-65a40027a/" title="LinkedIn">
