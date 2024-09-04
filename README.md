@@ -21,7 +21,7 @@
 ## 🛠 Languages and Tools
 <p align="left">
      <!-- ### Html ### -->
-    <a href="https://www.w3.org/TR/html5/" target="_blank" title="HTML5">
+    <a href="https://www.w3.org/TR/html5/" target="blank" title="HTML5">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     </a>
     <br />
