@@ -39,6 +39,10 @@
     <a href="https://getbootstrap.com/" title="BOOTSTRAP5">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP5">
     </a>
+     <!-- ### TAILWIND CSS ### -->
+    <a href="https://tailwindcss.com/" title="TAILWINDCSS">
+    <img src="https://img.shields.io/badge/Tailwind%20Css-0b1120?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="TAILWINDCSS">
+    </a>
     <!-- ### Java Script ### -->
     <a href="https://www.javascript.com" title="javascript">
     <img src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54" alt="javascript">
