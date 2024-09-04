@@ -30,7 +30,7 @@
     </a>
     </a>
     <!-- ### Github ### -->
-    <a href="https://github.com/" title="GitHub">
+    <a href="https://github.com/Mustafa-Sayed-M" title="GitHub">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <br>
@@ -46,6 +46,9 @@
     <!-- ### Java Script ### -->
     <a href="https://www.javascript.com" title="javascript">
     <img src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54" alt="javascript">
+    <!-- ### Redux ### -->
+    <a href="https://redux.js.org/" title="Redux">
+    <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764abc" alt="Redux">
      <!-- ### REACT JS ### -->
     <a href="https://react.dev/" title="REACT.JS">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS">
